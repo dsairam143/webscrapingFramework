@@ -1,0 +1,822 @@
+1541499897093	geckodriver	INFO	geckodriver 0.19.1
+1541499897099	geckodriver	INFO	Listening on 127.0.0.1:51238
+1541499900169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.y3iKrBNp7eoY"
+1541499910742	Marionette	INFO	Listening on port 51251
+1541499911674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4788, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1541499962115	geckodriver	INFO	geckodriver 0.19.1
+1541499962122	geckodriver	INFO	Listening on 127.0.0.1:51368
+1541499965193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.rsMxFXnLriKo"
+1541499969774	Marionette	INFO	Listening on port 51381
+1541499970414	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.avnet.com/wcsstore/version_v11022018/dojo18/dojo/dojo.js, line 8: unreachable code after return statement
+JavaScript warning: https://www.avnet.com/wcsstore/version_v11022018/dojo18/dojo/dojo.js, line 8: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6308, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1541500121825	geckodriver	INFO	geckodriver 0.19.1
+1541500121832	geckodriver	INFO	Listening on 127.0.0.1:51750
+1541500124872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.IYuaNdXKUGpt"
+1541500129560	Marionette	INFO	Listening on port 51762
+1541500130089	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'dbroverlayiconbackuped.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'dbroverlayiconnotbackuped.dll' -- see http://www.mozilla.com/en-US/blocklist/
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://static-media-prod-cdn.sumo.mozilla.net/static/build/common-min.4b219b53323f.js, line 10: Error: Error retrieving geoip data
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 83: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 143: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 143: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 143: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 83: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 143: unreachable code after return statement
+JavaScript error: https://www.webex.com.au/no-javascript/nojavascript-firefox.html, line 322: ReferenceError: s is not defined
+JavaScript error: https://www.webex.com.au/no-javascript/nojavascript-firefox.html, line 322: ReferenceError: s is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-3569326, line 83: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-3569326, line 143: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-3569326, line 143: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-3569326, line 143: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-3569326, line 83: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-3569326, line 143: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7048, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541656469551	geckodriver	INFO	geckodriver 0.19.1
+1541656469558	geckodriver	INFO	Listening on 127.0.0.1:60911
+1541656472642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.nrQThyZHLzD3"
+1541656475707	Marionette	INFO	Listening on port 60924
+1541656475924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541657562810	geckodriver	INFO	geckodriver 0.19.1
+1541657562817	geckodriver	INFO	Listening on 127.0.0.1:62627
+1541657565849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.AJIZkaIwofBU"
+1541657569388	Marionette	INFO	Listening on port 62639
+1541657569493	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+port 62958
+1541657625992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541657633190	geckodriver	INFO	geckodriver 0.19.1
+1541657633197	geckodriver	INFO	Listening on 127.0.0.1:63037
+1541657636259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.xnqFCyYo4AoX"
+1541657641123	Marionette	INFO	Listening on port 63050
+1541657641651	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12864, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 12864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15240, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.BFF3xkCE7u4K"
+1541658020788	Marionette	INFO	Listening on port 64280
+1541658021068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541658243142	geckodriver	INFO	geckodriver 0.19.1
+1541658243155	geckodriver	INFO	Listening on 127.0.0.1:64820
+1541658246160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.FIYd6mOgNhcV"
+1541658250083	Marionette	INFO	Listening on port 64832
+1541658250293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541658272118	geckodriver	INFO	geckodriver 0.19.1
+1541658272126	geckodriver	INFO	Listening on 127.0.0.1:64928
+1541658275201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.uCrDlEyqkosn"
+1541658279513	Marionette	INFO	Listening on port 64940
+1541658280564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541658338619	geckodriver	INFO	geckodriver 0.19.1
+1541658338626	geckodriver	INFO	Listening on 127.0.0.1:65286
+1541658341677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.k6pXwkGEzxMG"
+1541658344702	Marionette	INFO	Listening on port 65298
+1541658344856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541658567228	geckodriver	INFO	geckodriver 0.19.1
+1541658567235	geckodriver	INFO	Listening on 127.0.0.1:49474
+1541658570307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.4atyO6FiYobU"
+1541658574332	Marionette	INFO	Listening on port 49486
+1541658574724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541659370818	geckodriver	INFO	geckodriver 0.19.1
+1541659370825	geckodriver	INFO	Listening on 127.0.0.1:50740
+1541659373912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.0MIDmadR8cJx"
+1541659377229	Marionette	INFO	Listening on port 50752
+1541659377748	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3108, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541660022012	geckodriver	INFO	geckodriver 0.19.1
+1541660022019	geckodriver	INFO	Listening on 127.0.0.1:52092
+1541660025069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.reP68KgozdRU"
+1541660028279	Marionette	INFO	Listening on port 52104
+1541660028745	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 8052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8052, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+[Child 18812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+ers.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=budget, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=268870480.1541745265, line 91: unreachable code after return statement
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/networUnable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_N[Child 17860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+[Parent 16936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16936, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541746142147	geckodriver	INFO	geckodriver 0.19.1
+1541746142154	geckodriver	INFO	Listening on 127.0.0.1:61756
+1541746144843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.wdxRBw0Mk1uR"
+1541746150081	Marionette	INFO	Listening on port 61768
+1541746150758	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 765: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=985813752.1541746155, line 91: unreachable code after return statement
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=budget, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=budget, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 765: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=985813752.1541746155, line 91: unreachable code after return statement
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0017,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7D0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10012,name=PAPZInputBridge::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0020,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4,name=PAPZCTreeManager::Msg_UpdateZoomConstraints) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 18660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:20:06 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Fri Nov 09 2018 13:20:06 GMT+0530 (India Standard Time)",null],"messagesSent":501,"messagesReceived":501,"messagesQueued":502,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 21112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+s_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=444812560.1541746293, line 91: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+[Parent 18180, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 18180, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+taxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=budget, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 765: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=1375316115.1541746667, line 91: unreachable code after return statement
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+1541746890024	geckodriver	INFO	geckodriver 0.19.1
+1541746890030	geckodriver	INFO	Listening on 127.0.0.1:63841
+1541746893096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.zhuTsYTjlkHJ"
+1541746896228	Marionette	INFO	Listening on port 63853
+1541746896755	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 765: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=2123514001.1541746899, line 91: unreachable code after return statement
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=budget, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=budget, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 765: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=2123514001.1541746899, line 91: unreachable code after return statement
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 376))
+[Parent 17152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17152, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:19:40 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Fri Nov 09 2018 13:19:40 GMT+0530 (India Standard Time)",null],"messagesSent":488,"messagesReceived":488,"messagesQueued":488,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 376))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:19:41 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Fri Nov 09 2018 13:19:41 GMT+0530 (India Standard Time)",null],"messagesSent":484,"messagesReceived":484,"messagesQueued":485,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] Barrier: profile-before-change
+itespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 765: TypeError: arrayAds[0] is undefined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-KBK7743&cid=1211264727.1541747169, line 91: unreachable code after return statement
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/search/news?sortBy=relevance&dateRange=pastYear&blob=economy, line 14: ReferenceError: $ is not defined
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.reuters.com/reuters_bootstrap.js, line 45: SyntaxError: JSON.parse: unexpected non-digit at line 1 column 2 of the JSON data
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 376))
+[Parent 18192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 18192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:19:41 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Fri Nov 09 2018 13:19:41 GMT+0530 (India Standard Time)",null],"messagesSent":491,"messagesReceived":491,"messagesQueued":491,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":false,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":true,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":false,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":true,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schedulerState":{"shutdown":false,"hasSendTask":false,"sendsFailed":false,"sendTaskState":"bail out - no pings to send","backoffDelay":60000}},"haveDelayedNewProfileTask":true},"filename":"resource://gre/modules/TelemetryController.jsm","lineNumber":701,"stack":["resource://gre/modules/TelemetryController.jsm:setupTelemetry:701","resource://gre/modules/TelemetryController.jsm:observe:815","resource://gre/modules/TelemetryController.jsm:observe:167","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/TelemetryStartup.js:TelemetryStartup.prototype.observe:27"]}] Barrier: profile-before-change-telemetry
+messagesQueued":470,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:obseFATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:18:35 GMT+0530 (India Standard Time)","writeAtomic"],"latestReceived":["Fri Nov 09 2018 13:18:35 GMT+0530 (India Standard Time)",11293],"messagesSent":472,"messagesReceived":472,"messagesQueued":472,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filenFATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:18:37 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Fri Nov 09 2018 13:18:37 GMT+0530 (India Standard Time)",null],"messagesSent":470,"messagesReceived":470,"messagesQueued":470,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 17776, Main Thread] ###!!! ABORT: file resource://gre/modules/osfile/osfile_async_front.jsm, line 1467
+onitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] Barrier: profile-before-change
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 13:18:35 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Fri Nov 09 2018 13:18:35 GMT+0530 (India Standard Time)",null],"messagesSent":466,"messagesReceived":466,"messagesQueued":467,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 13176, Main Thread] ###!!! ABORT: file resource://gre/modules/osfile/osfile_async_front.jsm, line 1467
+e/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osUnable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 19272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+s/addonManager.js:observe:66"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 11476, Main Thread] ###!!! ABORT: file resource://gre/modules/osfile/osfile_async_front.jsm, line 1467
+ion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 16076, Main Thread] ###!!! ABORT: file resource://gre/modules/osfile/osfile_async_front.jsm, line 1467
+gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 14340, Main Thread] ###!!! ABORT: file resource://gre/modules/osfile/osfile_async_front.jsm, line 1467
+1541749816513	geckodriver	INFO	geckodriver 0.19.1
+1541749816519	geckodriver	INFO	Listening on 127.0.0.1:53954
+1541749819544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.d1zwCHPPiLOE"
+1541749823535	Marionette	INFO	Listening on port 53966
+1541749823649	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+Listening on port 54910
+1541750421044	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+ror: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+Listening on port 55312
+1541750610431	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+ror: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+Listening on port 55680
+1541750759906	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 376))
+[Parent 12008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12008, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+arent 13220, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+console.error: "Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter56"
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+ssion
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 15604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Temp\\rust_mozprofile.35umnPogpbCP"
+1541752164494	Marionette	INFO	Listening on port 58455
+1541752165275	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+egistry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+console.error: "Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter27"
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16976, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 230: TypeError: this._builder is undefined
+r: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 15492, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/utils/markup.js, line 243: TypeError: this.highlighterEnv is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/walker.js, line 290: TypeError: this._refMap is null
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13572, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+c/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiuUnable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc[Parent 15764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting forWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 15:42:00 GMT+0530 (India Standard Time)","remove"],"latestReceived":["Fri Nov 09 2018 15:42:00 GMT+0530 (India Standard Time)",null],"messagesSent":480,"messagesReceived":480,"messagesQueued":480,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsCrashMonitor.js:observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/moduleJavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+e-change
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Fri Nov 09 2018 15:42:00 GMT+0530 (India Standard Time)","remove"],"latestReceived":["Fri Nov 09 2018 15:42:00 GMT+0530 (India Standard Time)",null],"messagesSent":480,"messagesReceived":480,"messagesQueued":480,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1467,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1467","resource://gre/modules/osfile/osfile_async_front.jsm:null:1487","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:13","resource://gre/modules/AddonManager.jsm:startup:800","resource://gre/modules/AddonManager.jsm:startup:2885","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:observe:66"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 22472, Main Thread] ###!!! ABORT: file resource://gre/modules/osfile/osfile_async_front.jsm, line 1467
+1541758718373	geckodriver	INFO	geckodriver 0.19.1
+1541758718373	geckodriver	INFO	Listening on 127.0.0.1:51718
+1541758721358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.g6VFjB955xUv"
+1541758725084	Marionette	INFO	Listening on port 51730
+1541758725689	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16480, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 16480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+hromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 21876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.vrpath
+[Child 10828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 22512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541759413721	geckodriver	INFO	geckodriver 0.19.1
+1541759413721	geckodriver	INFO	Listening on 127.0.0.1:53201
+1541759416799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.Hd4CDbRrbpa5"
+1541759419932	Marionette	INFO	Listening on port 53213
+1541759419970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541759494627	geckodriver	INFO	geckodriver 0.19.1
+1541759494627	geckodriver	INFO	Listening on 127.0.0.1:53405
+1541759497738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.yinWeKALxd6N"
+1541759501105	Marionette	INFO	Listening on port 53417
+1541759501414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541759591303	geckodriver	INFO	geckodriver 0.19.1
+1541759591303	geckodriver	INFO	Listening on 127.0.0.1:53631
+1541759594365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.TLjjtZX28CNQ"
+1541759597668	Marionette	INFO	Listening on port 53643
+1541759598383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541759906936	geckodriver	INFO	geckodriver 0.19.1
+1541759906951	geckodriver	INFO	Listening on 127.0.0.1:54162
+1541759909962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.Gdo8dFdnBcU0"
+1541759913437	Marionette	INFO	Listening on port 54174
+1541759913873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541765691129	geckodriver	INFO	geckodriver 0.19.1
+1541765691144	geckodriver	INFO	Listening on 127.0.0.1:62329
+1541765694144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.sJUHGnPb3C4a"
+1541765697078	Marionette	INFO	Listening on port 62342
+1541765697409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541765738279	geckodriver	INFO	geckodriver 0.19.1
+1541765738294	geckodriver	INFO	Listening on 127.0.0.1:62494
+1541765741338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.lXwFdNGIjPgc"
+1541765744595	Marionette	INFO	Listening on port 62506
+1541765745522	Marionette	WARN	TLS certificate errors will be ignored for this session
