@@ -795,28 +795,116 @@ Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local
 1541759416799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.Hd4CDbRrbpa5"
 1541759419932	Marionette	INFO	Listening on port 53213
 1541759419970	Marionette	WARN	TLS certificate errors will be ignored for this session
-1541759494627	geckodriver	INFO	geckodriver 0.19.1
-1541759494627	geckodriver	INFO	Listening on 127.0.0.1:53405
-1541759497738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.yinWeKALxd6N"
-1541759501105	Marionette	INFO	Listening on port 53417
-1541759501414	Marionette	WARN	TLS certificate errors will be ignored for this session
-1541759591303	geckodriver	INFO	geckodriver 0.19.1
-1541759591303	geckodriver	INFO	Listening on 127.0.0.1:53631
-1541759594365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.TLjjtZX28CNQ"
-1541759597668	Marionette	INFO	Listening on port 53643
-1541759598383	Marionette	WARN	TLS certificate errors will be ignored for this session
-1541759906936	geckodriver	INFO	geckodriver 0.19.1
-1541759906951	geckodriver	INFO	Listening on 127.0.0.1:54162
-1541759909962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.Gdo8dFdnBcU0"
-1541759913437	Marionette	INFO	Listening on port 54174
-1541759913873	Marionette	WARN	TLS certificate errors will be ignored for this session
-1541765691129	geckodriver	INFO	geckodriver 0.19.1
-1541765691144	geckodriver	INFO	Listening on 127.0.0.1:62329
-1541765694144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.sJUHGnPb3C4a"
-1541765697078	Marionette	INFO	Listening on port 62342
-1541765697409	Marionette	WARN	TLS certificate errors will be ignored for this session
-1541765738279	geckodriver	INFO	geckodriver 0.19.1
-1541765738294	geckodriver	INFO	Listening on 127.0.0.1:62494
-1541765741338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.lXwFdNGIjPgc"
-1541765744595	Marionette	INFO	Listening on port 62506
-1541765745522	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 114: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1631: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17544, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stack":["resource://gre/modules/CrashMonitor.jsm:init:169","jar:file:///C:/Program%20Files/Mozilla%20Fi[Parent 11996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00F9,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00FE,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":169,"stWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/moWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Mon Nov 12 2018 11:54:48 GM[Parent 18752, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/build/build/src/toolkit/components/places/Database.cpp","lineNumber":530,"stack":["jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js:addBlocker:154","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:251","resource://gre/modules/XPCOMUtils.jsm:get:183","resource://gre/modules/PlacesUtils.jsm:get:1894","resource://gre/modules/PlacesUtils.jsm:get toolbarFolderId:1249","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:getToolbarFolderCount:1844","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:_maybeToggleBookmarkToolbarVisibility:1850","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG__migrateUI:1874","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG__beforeUIStartup:698","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG_observe:399"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":false,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":false,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schedulerState":{"shutdown":true,"hasSendTask":false,"sendsFailed":false,"sendTaskState":"bail out - no pings to send","backoffDelay":60000}},"haveDelayedNewProfileTask":false},"filename":"resource://gre/modules/TelemetryController.jsm","lineNumber":701,"stack":["resource://gre/modules/TelemetryController.jsm:setupTelemetry:701","resource://gre/modules/TelemetryController.jsm:observe:815","resource://gre/modules/TelemetryController.jsm:observe:167","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/TelemetryStartup.js:TelemetryStartup.prototype.observe:27"]}] Barrier: profile-before-change-telemetry
+49","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:getToolbarFolderCount:1844","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:_maybeToggleBookmarkToolbarVisibility:1850","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG__migrateUI:1874","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG__beforeUIStartup:698","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG_observe:399"]}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ld 19392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":false,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":true,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schedulerState":{"shutdown":false,"hasSendTask":false,"sendsFailed":false,"sendTaskState":"bail out - no pings to send","backoffDelay":60000}},"haveDelayedNewProfileTask":true},"filename":"resource://gre/modules/TelemetryController.jsm","lineNumber":701,"stack":["resource://gre/modules/TelemetryController.jsm:setupTelemetry:701","resource://gre/modules/TelemetryController.jsm:observe:815","resource://gre/modules/TelemetryController.jsm:observe:167","jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/TelemetryStartup.js:TelemetryStartup.prototype.observe:27"]}] Barrier: profile-before-change-telemetry
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1542003774843	geckodriver	INFO	geckodriver 0.19.1
+1542003774843	geckodriver	INFO	Listening on 127.0.0.1:63772
+1542003778072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.m9F5CxG1O5CN"
+1542003819527	geckodriver	INFO	geckodriver 0.19.1
+1542003819527	geckodriver	INFO	Listening on 127.0.0.1:63882
+1542003822585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.ZI6S1uSUBNbz"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1542003858630	Marionette	INFO	Listening on port 63897
+1542003858851	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.bankrate.com/mortgage.aspx?type=newmortgage&propertyvalue=237500&loan=182400&perc=20&prods=1,2&fico=740&points=Zero&zipcode=56002&vet=NoMilitaryService&valoan=false&vad=false&fthb=false&propertytype=SingleFamily&propertyuse=PrimaryResidence&cashoutamount=0, line 1: NetworkError: A network error occurred.
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+1542003971577	geckodriver	INFO	geckodriver 0.19.1
+1542003971592	geckodriver	INFO	Listening on 127.0.0.1:64370
+1542003974683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.dEUls1eINdxV"
+1542003978210	Marionette	INFO	Listening on port 64382
+1542003978555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542004239956	geckodriver	INFO	geckodriver 0.19.1
+1542004239971	geckodriver	INFO	Listening on 127.0.0.1:64952
+1542004243044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.b3QVkLwjm1aX"
+1542004247849	Marionette	INFO	Listening on port 64964
+1542004248462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542004952641	geckodriver	INFO	geckodriver 0.19.1
+1542004952648	geckodriver	INFO	Listening on 127.0.0.1:49853
+1542004955715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.xi1CPn3MZ3E0"
+1542004962677	geckodriver	INFO	geckodriver 0.19.1
+1542004962684	geckodriver	INFO	Listening on 127.0.0.1:49882
+1542004965741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.U56jdx6zt9ZJ"
+1542004969887	Marionette	INFO	Listening on port 49895
+1542004971341	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.bankrate.com/mortgage.aspx?type=newmortgage&propertyvalue=237500&loan=182400&perc=20&prods=1,2&fico=740&points=Zero&zipcode=56002&vet=NoMilitaryService&valoan=false&vad=false&fthb=false&propertytype=SingleFamily&propertyuse=PrimaryResidence&cashoutamount=0, line 1: NetworkError: A network error occurred.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 22440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 21800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\doddsai.BU1-D2208N62\AppData\Local\openvr\openvrpaths.vrpath
+1542005137514	geckodriver	INFO	geckodriver 0.19.1
+1542005137530	geckodriver	INFO	Listening on 127.0.0.1:50348
+1542005140605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.GCS8Fv6JYsOy"
+1542005144049	Marionette	INFO	Listening on port 50360
+1542005144283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542005717710	geckodriver	INFO	geckodriver 0.19.1
+1542005717710	geckodriver	INFO	Listening on 127.0.0.1:51408
+1542005720792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DODDSA~1.BU1\\AppData\\Local\\Temp\\rust_mozprofile.Q7RIf9LTvoDi"
+1542005724639	Marionette	INFO	Listening on port 51421
+1542005725144	Marionette	WARN	TLS certificate errors will be ignored for this session

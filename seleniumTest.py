@@ -21,34 +21,45 @@ def getSingleXPathDataExtractor(key, content, singlePaths, finalResult):
     finalResult[key] = extractSinglePath(content, singlePaths)
 
 if __name__ == '__main__':
+    '''
+        selenium_url: send url
+        input_Area: pass values['Xpath', 'Value'],
+        click_Area: click functin (pass xpath)
+        dropDown_1: ['Xpath', 'Exact Value']
+        sleep: Sleep Functionality
+        moveToBottomPage_dddazsd : scrolling to bottom page
+        scroll_dsfds : scroll a particular div,
+        load_more: xpath
+        
+    '''
     jsonFile = {
-        'selenium_url':'http://www.comparefirst.sg/wap/homeEvent.action',
-        'click_Area1':'/html/body',
-        'click_Area3': '/html/body',
-        'click_area4':'/html/body/div[5]/div/div[4]/a[1]',
-        'input_Area':['//*[@id="date"]', '01/07/1973'],
-        'click_Area5': '/html/body',
-        'click_Area2':'//*[@id="select2-chosen-9"]',
-        'dropDown_1':['//*[@id="select2-results-9"]', 'To Age 65'],
-        'click_area11':'//*[@id="s2id_SADCIPTermAn"]',
-        'dropDown_2':['//*[@id="select2-results-4"]', 'S$ 300,000'],
-        'click_are111':'//*[@id="s2id_sortNonWLGroup"]',
-        'dropDown_333':['//*[@id="select2-results-16"]', 'Premium (Lowest - Highest)'],
-        'click_sdasdsa':'//*[@id="viewPopup"]',
-        'click_dfdf':'//*[@id="iUnderstant"]',
-        'click_dfdfsdfgfdg': '//*[@id="iUnderstant"]',
+        'selenium_url':'https://www.bankrate.com/mortgage.aspx?type=newmortgage&propertyvalue=237500&loan=182400&perc=20&prods=1,2&fico=740&points=Zero&zipcode=56002&vet=NoMilitaryService&valoan=false&vad=false&fthb=false&propertytype=SingleFamily&propertyuse=PrimaryResidence&cashoutamount=0',
+        'input_Area1':['//*[@id="property-location-input"]', '10004'],
+        'input_Area2':['//*[@id="purchase-price"]', '125000'],
+        'input_Area3':['//*[@id="property-downpayment-percentage"]', '20'],
+        'click_Area':'//*[@id="mortgage-rate-table-app"]/div/div/div/div[1]/button',
         'sleep':3,
-        'moveToBottomPage_dddazsd': 'moveToBottomPage',
-        'scroll_dsfds':'//*[@id="result_container"]',
+        'load_more':'/html/body/div[6]/div/div/div/div/div[2]/div[3]/table[1]/tfoot/tr/td/button',
+        'load_more_2':'/html/body/div[6]/div/div/div/div/div[2]/div[3]/table[2]/tfoot/tr/td/button'
+
     }
 
     dataFile = {
         "homeBlogData": {
 
-                    "blogMainDivPath": "#result_container", #Take Selector Only
-                    "blogPath": [['Heading', 'text','li.ui-draggable:nth-child(1) > div:nth-child(1) > div:nth-child(2) > h3:nth-child(1)'], #Take Selector Only
-                                 ['Data', 'text','li.ui-draggable:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1)'] #Take Selector Only
+                    "blogMainDivPath": "table.offers-list:nth-child(1) > tbody:nth-child(2)", #Take Selector Only
+                    "blogPath": [['BankName', 'attrs\img','table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > figure:nth-child(1) > img:nth-child(1)'], #Take Selector Only
+                                 ['Apr', 'text','table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'],
+                                 ['Second', 'text', 'table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)']#Take Selector Only
                     ]
+        },
+        "homeBlogData2": {
+
+            "blogMainDivPath": "table.table:nth-child(2) > tbody:nth-child(2)",  # Take Selector Only
+            "blogPath": [['BankName', 'attrs\img','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > figure:nth-child(1) > img:nth-child(1)'],# Take Selector Only
+                         ['Apr', 'text','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'],
+                         ['Second', 'text','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)']# Take Selector Only
+                         ]
         },
 
     }

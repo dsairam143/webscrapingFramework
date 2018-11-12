@@ -27,6 +27,9 @@ def extractSinglePath(content, pPath):
             value = jsoup.find('a')['href']
         elif pPath[1] == 'src' or pPath[1] == 'img':
             value = jsoup.find('img')['src']
+        elif 'attrs' in pPath[1]:
+            value = jsoup.find(pPath[1].split('\\')[-1]).attrs
+
         productDict[pPath[0]] = value
     except Exception as e:
 
