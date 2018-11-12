@@ -20,7 +20,7 @@ def getSingleTableDataExtractor(tableName, content, tablePath, finalResult):
 def getSingleXPathDataExtractor(key, content, singlePaths, finalResult):
     finalResult[key] = extractSinglePath(content, singlePaths)
 
-if __name__ == '__main__':
+def SeleniumWebScraping():
     '''
         selenium_url: send url
         input_Area: pass values['Xpath', 'Value'],
@@ -30,7 +30,7 @@ if __name__ == '__main__':
         moveToBottomPage_dddazsd : scrolling to bottom page
         scroll_dsfds : scroll a particular div,
         load_more: xpath
-        
+
     '''
     jsonFile = {
         'selenium_url':'https://www.bankrate.com/mortgage.aspx?type=newmortgage&propertyvalue=237500&loan=182400&perc=20&prods=1,2&fico=740&points=Zero&zipcode=56002&vet=NoMilitaryService&valoan=false&vad=false&fthb=false&propertytype=SingleFamily&propertyuse=PrimaryResidence&cashoutamount=0',
@@ -40,34 +40,34 @@ if __name__ == '__main__':
         'click_Area':'//*[@id="mortgage-rate-table-app"]/div/div/div/div[1]/button',
         'sleep':3,
         'load_more':'/html/body/div[6]/div/div/div/div/div[2]/div[3]/table[1]/tfoot/tr/td/button',
-        'load_more_2':'/html/body/div[6]/div/div/div/div/div[2]/div[3]/table[2]/tfoot/tr/td/button'
+        'load_more_2':'/html/body/div[6]/div/div/div/div/div[2]/div[3]/table[2]/tfoot/tr/td/button',
+        'dataFile_1':{
+            "homeBlogData": {
 
+                        "blogMainDivPath": "table.offers-list:nth-child(1) > tbody:nth-child(2)", #Take Selector Only
+                        "blogPath": [['BankName', 'attrs\img','table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > figure:nth-child(1) > img:nth-child(1)'], #Take Selector Only
+                                     ['Apr', 'text','table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'],
+                                     ['Second', 'text', 'table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)']#Take Selector Only
+                        ]
+            },
+            "homeBlogData2": {
+
+                "blogMainDivPath": "table.table:nth-child(2) > tbody:nth-child(2)",  # Take Selector Only
+                "blogPath": [['BankName', 'attrs\img','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > figure:nth-child(1) > img:nth-child(1)'],# Take Selector Only
+                             ['Apr', 'text','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'],
+                             ['Second', 'text','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)']# Take Selector Only
+                             ]
+            },
+
+        }
     }
 
-    dataFile = {
-        "homeBlogData": {
 
-                    "blogMainDivPath": "table.offers-list:nth-child(1) > tbody:nth-child(2)", #Take Selector Only
-                    "blogPath": [['BankName', 'attrs\img','table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > figure:nth-child(1) > img:nth-child(1)'], #Take Selector Only
-                                 ['Apr', 'text','table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'],
-                                 ['Second', 'text', 'table.offers-list:nth-child(1) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)']#Take Selector Only
-                    ]
-        },
-        "homeBlogData2": {
-
-            "blogMainDivPath": "table.table:nth-child(2) > tbody:nth-child(2)",  # Take Selector Only
-            "blogPath": [['BankName', 'attrs\img','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > figure:nth-child(1) > img:nth-child(1)'],# Take Selector Only
-                         ['Apr', 'text','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'],
-                         ['Second', 'text','table.table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)']# Take Selector Only
-                         ]
-        },
-
-    }
 
     if jsonFile.get('selenium_url'):
         driver = maks_browser()
         driver.loadBrowser(jsonFile.get('selenium_url'))
-
+        finalResult= dict()
         for key, value in jsonFile.items():
 
             print(key)
@@ -87,9 +87,11 @@ if __name__ == '__main__':
                 driver.moveToBottomPage()
             if 'sleep' in key:
                 time.sleep(jsonFile.get(key))
-        #Extract the pagesource data
-        time.sleep(3)
-        result = xpathsData(driver.getBrowser().page_source, dataFile)
-        print(result)
+            if 'dataFile' in key:
+                #Extract the pagesource data
+                time.sleep(3)
+                finalResult[key] = xpathsData(driver.getBrowser().page_source, jsonFile.get(key))
+        print(finalResult)
 
 
+SeleniumWebScraping()
